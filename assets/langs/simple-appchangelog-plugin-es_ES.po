@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: simple-appchangelog-plugin\n"
+"POT-Creation-Date: 2016-03-19 02:02+0000\n"
+"PO-Revision-Date: 2016-03-19 02:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: peti446\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_x;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin.php:23
+msgid "General"
+msgstr "General"
+
+#: admin/admin.php:24 admin/admin.php:438
+msgid "New Project"
+msgstr "Proyecto nuevo"
+
+#: admin/admin.php:54 admin/admin.php:74
+msgid "Project Deleted!"
+msgstr "Proyecto eliminado!"
+
+#: admin/admin.php:56
+#, php-format
+msgid "Deleted %s Projects!"
+msgstr "%s Proyectos eliminados!"
+
+#: admin/admin.php:62
+msgid "Project Edited!"
+msgstr "Proyecto editado!"
+
+#: admin/admin.php:64
+msgid "There was a problem editing the project!"
+msgstr "Ha habido un problema mientras editando el Proyecto!"
+
+#: admin/admin.php:76
+msgid "There was a problem deleting the project!"
+msgstr "Ha habido un problema mientras se estaba eliminado el Proyecto!"
+
+#: admin/admin.php:81
+msgid "There are no project to display!"
+msgstr "No hay proyectos que momstrar!"
+
+#: admin/admin.php:91 admin/admin.php:180 admin/admin.php:262
+#: admin/admin.php:356
+msgid "Actions"
+msgstr "Acciones"
+
+#: admin/admin.php:92 admin/admin.php:181
+msgid "Delete Project"
+msgstr "Eliminar Proyecto"
+
+#: admin/admin.php:94 admin/admin.php:183 admin/admin.php:265
+#: admin/admin.php:359
+msgid "Do action"
+msgstr "Hacer accion"
+
+#: admin/admin.php:110 admin/admin.php:168
+msgid "ID"
+msgstr "ID"
+
+#: admin/admin.php:111 admin/admin.php:169 admin/admin.php:284
+#: admin/admin.php:345
+msgid "Options"
+msgstr "Opciones"
+
+#: admin/admin.php:136 admin/admin.php:305
+msgid "Delete"
+msgstr "Eliminar"
+
+#: admin/admin.php:137 admin/admin.php:153
+msgid "Edit Project"
+msgstr "Editar proyecto"
+
+#: admin/admin.php:138
+msgid "View/Edit Project Versions"
+msgstr "Ver/Editar Versiones del Proyecto"
+
+#: admin/admin.php:144
+msgid "You are about to delete a project"
+msgstr "Estas a punto de eliminar un Proyecto"
+
+#: admin/admin.php:145 admin/admin.php:313
+msgid "Continue"
+msgstr "Continuar"
+
+#: admin/admin.php:146 admin/admin.php:314 admin/admin.php:327
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: admin/admin.php:149 admin/admin.php:429
+msgid "Project Name"
+msgstr "Nombre del Proyecto"
+
+#: admin/admin.php:151 admin/admin.php:433
+msgid "Project Slug"
+msgstr "Slug del Proyecto"
+
+#: admin/admin.php:197
+msgid "There is no project with this ID"
+msgstr "No hay ningun Proyecto con esa ID"
+
+#: admin/admin.php:200
+msgid "Return to Project List"
+msgstr "Regresar a la lista de los Proyectos"
+
+#: admin/admin.php:219
+msgid "Version Deleted!"
+msgstr "Versión eliminada!"
+
+#: admin/admin.php:221
+#, php-format
+msgid "Deleted %s Versions!"
+msgstr "%s versions eliminadas!"
+
+#: admin/admin.php:233
+msgid "Version edited!"
+msgstr "Versión editada!"
+
+#: admin/admin.php:235
+msgid "There was a problem editing the version!"
+msgstr "Ha habido un problema mientras se editaba la version!"
+
+#: admin/admin.php:242
+msgid "Version deleted!"
+msgstr "Version eliminada!"
+
+#: admin/admin.php:244
+msgid "There was a problem deleting the Version!"
+msgstr "Ha habido un problema mientras se eliminaba la versión!"
+
+#: admin/admin.php:250
+msgid "There are no versions to display!"
+msgstr "No hay versions que mostrar!"
+
+#: admin/admin.php:251 admin/admin.php:266 admin/admin.php:360
+msgid "Create new Version"
+msgstr "Crear una nueva versión"
+
+#: admin/admin.php:263 admin/admin.php:357
+msgid "Delete Versions"
+msgstr "Eliminar versiónes"
+
+#: admin/admin.php:306 admin/admin.php:327
+msgid "Edit Version"
+msgstr "Editar Versión"
+
+#: admin/admin.php:312
+msgid "You are about to delete a version"
+msgstr "Estas apunto de eliminar una versión"
+
+#: admin/admin.php:318 admin/admin.php:385
+msgid "Version Name"
+msgstr "Nombre de la Version"
+
+#: admin/admin.php:320 admin/admin.php:387
+msgid "Version Descripcion"
+msgstr "Descripcion de la Versión"
+
+#: admin/admin.php:325
+msgid "Order"
+msgstr "Orden"
+
+#: admin/admin.php:376
+msgid "Version Created!"
+msgstr "Versión creada!"
+
+#: admin/admin.php:376
+msgid "Return"
+msgstr "Volver"
+
+#: admin/admin.php:378
+msgid "There was a problem while creating a new version!"
+msgstr "Ha habido un problema mientras se creaba una nueva version!"
+
+#: admin/admin.php:393
+msgid "New Version"
+msgstr "Nueva Versión"
+
+#: admin/admin.php:416
+msgid "Project created!"
+msgstr "Proyecto creado!"
+
+#: admin/admin.php:418
+msgid "There was a problem creating the Project!"
+msgstr "Ha habido un problema mientras se creaba el Proyecto!"
+
+#: admin/admin.php:422
+msgid "This project already exists!"
+msgstr "Este proyecto ya existe!"
+
+#: main.php:30
+msgid "There is a problen when insaling the Version Manager DB"
+msgstr "Hay un problema instalando la db de las versiones."
+
+#: main.php:44
+msgid "There is a problen when insaling the Project Manager DB"
+msgstr "Hay un problema instalando la db de los proyectos."
+
+#: main.php:61
+msgid "Changelog"
+msgstr "Changelog"
+
+#: main.php:77
+msgid "No Versions Yet"
+msgstr "No hay versions todavia!"
+
+#~ msgid "Add new Version"
+#~ msgstr "Añadir una nueva versión"
+
+#~ msgid "View Version"
+#~ msgstr "Ver Versión"
+
+#~ msgid "Search Version"
+#~ msgstr "Buscar Versión"
+
+#~ msgid "No Version found"
+#~ msgstr "No se ha encontrado versiones"
+
+#~ msgid "No Version found in Trash"
+#~ msgstr "No se han encontrado versions en la papelera"
+
+#~ msgid "Projects"
+#~ msgstr "Proyectos"
+
+#~ msgid "Project"
+#~ msgstr "Proyecto"
+
+#~ msgid "Search Projects"
+#~ msgstr "Buscar proyecto"
+
+#~ msgid "Popular Projects"
+#~ msgstr "Proyectos populares"
+
+#~ msgid "All Projects"
+#~ msgstr "Todos los proyectos"
+
+#~ msgid "Update Project"
+#~ msgstr "Actualizar proyecto"
+
+#~ msgid "Add New Project"
+#~ msgstr "Añadir nuevo proyecto"
+
+#~ msgid "Separate Projects with commas"
+#~ msgstr "Separa proyectos con comas"
+
+#~ msgid "Add or remove Project"
+#~ msgstr "Añadir o eliminar Proyecto"
+
+#~ msgid "Choose from the most used Projects"
+#~ msgstr "Seleciona de los proyectos mas usados"
+
+#~ msgid "No Projects found."
+#~ msgstr "No se ha encontrado proyectos."

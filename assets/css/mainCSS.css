@@ -1,0 +1,20 @@
+.sAppchangelog_title{
+    padding: 2px;
+    text-decoration: none;
+    color: #248cc8;
+}
+.sAppchangelog_title:hover{
+    text-decoration: underline;
+}
+.sAppChangelog_hrLine{
+    margin: 15px;
+}
+.sAppchangelog_boddy{
+    width: 90%;
+    border: 1px solid #d9d9d9;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.09);
+    padding: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
